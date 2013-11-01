@@ -9,5 +9,3 @@ Usage
 =====
 1. Include the plugin after Highstock
 2. Add `beyondExtremes: true` to the "rangeSelector" object in your chart options
-
-
