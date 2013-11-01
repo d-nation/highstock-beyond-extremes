@@ -1,6 +1,6 @@
 {
     "name": "Beyond-Extremes",
-    "version": "1.0.0",
+    "version": "1.0.0.1",
     "title": "Allow range inputs outside of data extremes",
     "homepage": "https://github.com/d-nation/highstock-beyond-extremes",
     "demo": [
