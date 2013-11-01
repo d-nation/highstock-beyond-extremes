@@ -2,12 +2,13 @@
     "name": "Beyond-Extremes",
     "version": "1.0.0",
     "title": "Allow range inputs outside of data extremes",
+    "homepage": "https://github.com/d-nation/highstock-beyond-extremes",
     "demo": [
         "http://jsfiddle.net/dnation/eSS8T/"
     ],
     "author": {
         "name": "Dustin Nation",
-        "url": "https://github.com/d-nation/highstock-beyond-extremes"
+        "url": "http://dustinnation.com/blog/"
     },
     "licenses": [
         {
